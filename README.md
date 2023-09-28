@@ -1,5 +1,5 @@
 ```
-English description
+Description in english
 ```
 # Courses #3
 ## Set of Colored Markers
@@ -8,7 +8,7 @@ Selecting the correct colors for your webpage can greatly improve the aesthetic 
 
 In this course, you'll build a set of colored markers. You'll learn different ways to set color values and how to pair colors with each other.
 ```
-Spanish description
+Description in spanish
 ```
 # Cursos #3
 ## Aprenda los colores de CSS construyendo un conjunto de marcadores de colores
